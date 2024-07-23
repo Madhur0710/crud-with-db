@@ -1,0 +1,1 @@
+It is a simple User Management System built with Node.js, Express, EJS, and Mongoose. It allows you to create, read, update, and delete users through a web interface.
